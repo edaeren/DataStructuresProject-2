@@ -1,0 +1,3 @@
+Kullandığım veriler "doc" klasörünün içerisinde veri.txt ismi ile yer almaktadır.
+Dosyadan okumayı da bu klasörün içerisinden 
+okuyacak şekilde yazdım.
